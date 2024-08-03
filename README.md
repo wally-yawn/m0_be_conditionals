@@ -10,9 +10,9 @@
 
 Read the directions and complete all activities in each file, in this order:
 - `comparisons.rb` - complete
-- `if_statements.rb`
-- `code_challenges/README.md`
-- `self_evaluation.md`
+- `if_statements.rb` - complete
+- `code_challenges/README.md` - complete
+- `self_evaluation.md` - complete
 
 Based on what you know about Git workflow, make commits as you see fit.
 
